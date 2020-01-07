@@ -1,6 +1,6 @@
 # machine-learning
 
-Oh how I loved this Artificial Intelligence course!  https://www.coursera.org/learn/machine-learning
+Oh how I loved this Artificial Intelligence course from Stanford!  https://www.coursera.org/learn/machine-learning
 
 From Linear Regression with One Variable through to Neural Networks - it blew my mind.  You do need some maths (I knew that Pure Maths Degree would prove useful eventually), so dust off your big girl's calculus pants and dive right in.
 
